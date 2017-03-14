@@ -3,3 +3,5 @@
 #Some fun code....
 
 g <- ggplot(....)
+
+dat <- read.csv(....)
