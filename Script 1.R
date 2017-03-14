@@ -6,3 +6,5 @@ g <- ggplot(....)
 
 dat <- read.csv(....)
 
+#Adding new function 
+func <- function(x) {...}
