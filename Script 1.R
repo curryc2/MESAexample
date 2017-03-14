@@ -5,3 +5,6 @@
 g <- ggplot(....)
 
 dat <- read.csv(....)
+
+#Add new function
+y <- function func(x) {...}
