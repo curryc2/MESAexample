@@ -1,10 +1,8 @@
 #Script 1
 
 #Some fun code....
+dat <- read.csv(....)
 
 g <- ggplot(....)
 
-dat <- read.csv(....)
 
-#Adding new function 
-func <- function(x) {...}
